@@ -13,4 +13,4 @@ docker ps
 docker-machine ip default
 
 # Access dynamodb local shell in the browser
-<IP Address>:<MappedPort>/shell
+IPAddress:DockerHostPort/shell
